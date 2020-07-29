@@ -1,0 +1,4 @@
+include ':app'
+include ':openCVLibrary'
+include ':documentscanner'
+rootProject.name = "CamScanner Pro"
